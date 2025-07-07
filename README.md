@@ -44,9 +44,9 @@ Regression Models from Scratch (No Libraries)
 
 | الملف | الوصف |
 |-------|-------|
-| LinearRegression.txt | شرح يدوي لنموذج الانحدار الخطي |
-| PolynomialRegression.txt | تطبيق يدوي للانحدار متعدد الحدود |
-| RidgeRegression.txt | شرح النموذج بالعقوبة مع تنظيم التدريب على Epochs |
+| LinearRegression.py | شرح يدوي لنموذج الانحدار الخطي |
+| PolynomialRegression.py | تطبيق يدوي للانحدار متعدد الحدود |
+| RidgeRegression.py | شرح النموذج بالعقوبة مع تنظيم التدريب على Epochs |
 
 ---
 
